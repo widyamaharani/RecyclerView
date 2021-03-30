@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyRecycler View</string>
+
+    <string-array name="bunga">
+        <item>Begonia</item>
+        <item>Dahlia</item>
+        <item>Lantana</item>
+        <item>Lilac</item>
+        <item>Lobelia</item>
+        <item>Fuchsia</item>
+        <item>Petunia</item>
+        <item>Matahari</item>
+        <item>Sweet Alyssum</item>
+        <item>Teratai</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Keluarga Begoniaceae. Memiliki Corak Daun dan Bunga yang Unik.</item>
+        <item>Keluarga Asteraceae. Bunga Nasional Meksiko.</item>
+        <item>Lantana Camara. Bunga jamak berbentuk bulat.</item>
+        <item>Syringa vulgaris Keluarga Oleaceae. Mekar sepanjang semi.</item>
+        <item>Tanaman Herbal dengan berbagai khasiat.</item>
+        <item>Keluarga Onargaceae. Bunga Anting-Anting.</item>
+        <item>Keluarga Solanaceae. Bunga Terompet.</item>
+        <item>Keluarga Asteraceae, Helianthus annuus L. Tumbuh mengikuti sinar matahari.</item>
+        <item>Lobularia Maritima. Bunga Pendek dengan wangi lembut.</item>
+        <item>Nymphaeaceae. Lambang kemurnian.</item>
+    </string-array>
+</resources>
